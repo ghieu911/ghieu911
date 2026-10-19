@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there i'm Hieu 👋
+- I'm studying Github
+- Project:
+- Contact: 
 <!--
 **ghieu911/ghieu911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
